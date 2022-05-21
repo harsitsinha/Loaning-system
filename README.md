@@ -17,3 +17,5 @@ I the borrower says he borrowed 1000 money no one except me could gurantee that.
 - Only a few people have control
 - Less transparency 
 - The trust has to be given to centralised body
+<br />
+More modifactions could be made but due to shortage of time. This is what I have submitted
